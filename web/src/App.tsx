@@ -7,7 +7,7 @@ export default function App() {
   return (
     <Box className={classes.container}>
       <Stack className={classes.main}>
-        <Title order={1} className={classes.title}>Vivid Dreams</Title>
+        <Title order={1} className={classes.title}>Vivd Dreams</Title>
       </Stack>
       <Carousel />
       <Media />
