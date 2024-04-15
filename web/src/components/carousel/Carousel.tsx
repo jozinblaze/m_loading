@@ -11,6 +11,7 @@ export default function Media() {
     'https://raw.githubusercontent.com/jozinblaze/m_loading/main/web/src/assets/images/2.png',
     'https://raw.githubusercontent.com/jozinblaze/m_loading/main/web/src/assets/images/3.png',
     'https://raw.githubusercontent.com/jozinblaze/m_loading/main/web/src/assets/images/4.png',
+    'https://raw.githubusercontent.com/jozinblaze/m_loading/main/web/src/assets/images/5.png',
   ];
 
   const slides = images.map((url) => (
